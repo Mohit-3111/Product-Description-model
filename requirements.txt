@@ -1,0 +1,9 @@
+pprint
+textwrap
+pydantic
+typing
+openai
+dotenv
+json
+fastapi
+uvicorn
